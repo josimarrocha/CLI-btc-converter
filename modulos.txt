@@ -1,0 +1,12 @@
+modulos sao pequenos trechos de codigo com funcionalidades diferentes. e são especificos 
+para fazer uma determinada acão/função
+
+Por que usar modulos?
+1- mantenabilidade. A manutencao do codigo é muito melhor e mais fácil,
+ visto que ele está separado de outras funcionalidades
+
+2- namespancing. usar variaveis sem se preocupar se terá conflitos com outras, pq como vai estar 
+em funcoes separadas, não há risco de conflito, podendo, então, repetir nomes de variaveis
+que estão em outras funcoes 
+
+3- reusabilidade. o modulo pode ser usado em varios projetos
