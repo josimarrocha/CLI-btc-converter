@@ -1,6 +1,6 @@
 import { expect } from 'chai';
-const exec = require('child_process').exec;
-const btcConverter = require('../src/main');
+const { exec } = require('child_process');
+const btcConverter = 'node src/main.js';
 const pkg = require('../package.json');
 
 describe("Main CLI", () => {
