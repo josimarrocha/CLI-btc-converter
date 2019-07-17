@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/josimarrocha/cli-bitcoin-converter.svg?branch=master)](https://travis-ci.org/josimarrocha/cli-bitcoin-converter)
+
 # cli-bitcoin-converter
 
 Command line interface to converter bitcoin to currency real
