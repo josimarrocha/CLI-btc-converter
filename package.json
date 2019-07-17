@@ -1,8 +1,8 @@
 {
-  "name": "btc-converter",
+  "name": "cli-bitcoin-converter",
   "version": "1.0.0",
-  "description": "A CLI to convert Bitcoin to any currency provided",
-  "main": "index.js",
+  "description": "A small CLI to convert Bitcoin to any currency provided",
+  "main": "src/main.js",
   "scripts": {
     "clear": "rimraf bin",
     "build": "npm run clear && ./node_modules/.bin/babel --out-dir bin src",
