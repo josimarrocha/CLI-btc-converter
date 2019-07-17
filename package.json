@@ -1,6 +1,6 @@
 {
   "name": "cli-bitcoin-converter",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A small CLI to convert Bitcoin to any currency provided",
   "main": "src/main.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "preferGlobal": true,
   "bin": {
-    "btc-converter": "bin/main.js"
+    "cli-bitcoin-converter": "bin/main.js"
   },
   "nyc": {
     "reporter": [
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josimarrocha/btc-converter.git"
+    "url": "git+https://github.com/josimarrocha/cli-bitcoin-converter.git"
   },
   "keywords": [
     "js.",
@@ -41,9 +41,9 @@
   "author": "Josimar Rocha <rocha_josimar@yahoo.com.br>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/josimarrocha/btc-converter/issues"
+    "url": "https://github.com/josimarrocha/cli-bitcoin-converter/issues"
   },
-  "homepage": "https://github.com/josimarrocha/btc-converter#readme",
+  "homepage": "https://github.com/josimarrocha/cli-bitcoin-converter#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-loader": "^8.0.6",

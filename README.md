@@ -13,9 +13,9 @@ Command line interface to converter bitcoin to currency real
 ### How to use
 
 ```sh
-bitcoin-converter-cli --help
+cli-bitcoin-converter --help
 
-  Usage: bitcoin-converter-cli [options]
+  Usage: cli-bitcoin-converter [options]
 
   Convert Bitcoin to any currency defined
 
